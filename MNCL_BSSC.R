@@ -4,7 +4,7 @@ setwd("")
 
 
 #source("functions.R")
-source("functions_github.R")
+source("functions.R")
 
 #libraries
 library(truncnorm) #to generate truncnorn for refitted estimate
